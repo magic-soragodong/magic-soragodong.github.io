@@ -1,0 +1,7 @@
+.form, .namecontainer, .reset_btn{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
